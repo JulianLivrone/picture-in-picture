@@ -4,10 +4,7 @@ This is a web application that allows users to capture their screen or window an
 
 ## Features
 
-- Generates a random quote on page load
-- Clicking "New Quote" button generates a new quote
-- Clicking "Tweet Quote" button shares the quote on Twitter
-- Shows a loading spinner while quotes are being retrieved
+- Let's you stream a screen or window while navigation through other screen or window.
 
 ## Technologies Used
 
